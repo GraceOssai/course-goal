@@ -1,0 +1,4 @@
+.course-container{
+  width: 50%;
+  transition: opacity 1s;
+}

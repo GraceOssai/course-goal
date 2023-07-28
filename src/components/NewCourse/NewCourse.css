@@ -1,0 +1,11 @@
+.Newcourse__container{
+  height: 10rem;
+  background-color: white;
+  border-radius: 1.2rem;
+  box-shadow: 10px 10px 10px rgb(120, 19, 120);
+  padding: 20px 5%;
+  border: 0 solid purple;
+  margin-bottom: 5rem;
+  border-left: 4px solid purple;
+  border-top: 4px solid purple;
+}
